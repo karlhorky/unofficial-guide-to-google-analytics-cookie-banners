@@ -21,7 +21,7 @@ Google Analytics can be used without users giving consent by clicking on an acce
 ### Step 1a: Set the following Google Analytics GDPR settings
 
 1. If you haven't yet, read and accept the *Data Processing Amendment* under `Admin` -> `Account Settings` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
-2. Uncheck all `Data Sharing Settings` checkboxes under `Admin` -> `Account Settings` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
+2. Uncheck all *Data Sharing Settings* checkboxes under `Admin` -> `Account Settings` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
 3. For each property:
    1. Make sure *Enable Demographics and Interest Reports* is **off** under `Admin` -> `Property Settings` [Ref](https://webdevlaw.uk/wp-content/uploads/2018/05/WordCamp-Belfast-GDPR-Google-Analytics.pdf)
    2. Make sure both *Remarketing* and *Advertising Reporting Features* are **off** under `Admin` -> `Tracking Info` -> `Data Collection` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
