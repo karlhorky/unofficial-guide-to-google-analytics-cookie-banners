@@ -14,7 +14,7 @@ Twitter discussion: https://twitter.com/karlhorky/status/1126025690443329536
 
 ## Step 1: Usage before Consent
 
-Google Analytics can be used without users giving consent by clicking on an accept button, if configured correctly:
+Google Analytics can be used without users giving consent (consent example: clicking on an accept button), if configured correctly:
 
 > If you use \[the] Advertising features in GA, you must request explicit consent. If you do not, then you don’t.
 
