@@ -42,7 +42,7 @@ On creation of the tracker, disable the following features ([Ref](https://www.bl
 
 ### Step 1c: Privacy Policy section   
 
-Mention Google Analytics in your privacy policy with instructions how to remove cookies.
+Mention Google Analytics in your privacy policy with instructions how to remove cookies (opt-out).
 
 ## Step 2: Usage after Consent
 
