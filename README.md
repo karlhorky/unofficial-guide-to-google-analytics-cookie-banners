@@ -26,7 +26,7 @@ Google Analytics can be used without users giving consent (consent example: clic
    1. Make sure *Enable Demographics and Interest Reports* is **off** under `Admin` -> `Property Settings` [Ref](https://webdevlaw.uk/wp-content/uploads/2018/05/WordCamp-Belfast-GDPR-Google-Analytics.pdf)
    2. Make sure both *Remarketing* and *Advertising Reporting Features* are **off** under `Admin` -> `Tracking Info` -> `Data Collection` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
    3. Make sure the *User-ID* feature is **off** under `Admin` -> `Tracking Info` -> `User-ID` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
-4. Make sure that you never track pages with personal information in them (query parameters, for example) [Ref](https://webdevlaw.uk/wp-content/uploads/2018/05/WordCamp-Belfast-GDPR-Google-Analytics.pdf)
+4. Make sure that you never track URLs with personal information in them (query parameters, for example) [Ref](https://webdevlaw.uk/wp-content/uploads/2018/05/WordCamp-Belfast-GDPR-Google-Analytics.pdf)
 
 ### Step 1b: Anonymize the IP
 
