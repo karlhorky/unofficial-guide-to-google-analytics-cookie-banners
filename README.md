@@ -24,7 +24,7 @@ These settings assume that you will not need the advertising features.
 
 1. If you haven't yet, read and accept the *Data Processing Amendment* under `Admin` -> `Account Settings` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
 2. Uncheck all *Data Sharing Settings* checkboxes under `Admin` -> `Account Settings` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
-3. For each property, disable the advertising features you don't need. If you need them, make sure to implement [Step 1b Option 2](#step-1b-option-2-anonymize-the-ip-and-disable-all-advertising-features) and [Step 2](#step-2-usage-after-consent-optional-for-advertising-features):
+3. For each property, disable the advertising features you don't need. If you do need them, leave them on and make sure to implement [Step 1b Option 2](#step-1b-option-2-anonymize-the-ip-and-disable-all-advertising-features) and [Step 2](#step-2-usage-after-consent-optional-for-advertising-features):
    1. Make sure *Enable Demographics and Interest Reports* is **off** under `Admin` -> `Property Settings` [Ref](https://webdevlaw.uk/wp-content/uploads/2018/05/WordCamp-Belfast-GDPR-Google-Analytics.pdf)
    2. Make sure both *Remarketing* and *Advertising Reporting Features* are **off** under `Admin` -> `Tracking Info` -> `Data Collection` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
    3. Make sure the *User-ID* feature is **off** under `Admin` -> `Tracking Info` -> `User-ID` [Ref](https://blog.oriel.io/2019/01/24/how-to-make-google-analytics-gdpr-compliant/)
