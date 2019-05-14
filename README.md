@@ -72,3 +72,9 @@ If your strategy requires advertising features such as *Demographics and Interes
      });
    }
    ```
+
+## References
+
+### Non-Google Analytics Tracking without Consent
+
+- [VS Code Telemetry](https://twitter.com/freiksenet/status/1128264608236675072)
